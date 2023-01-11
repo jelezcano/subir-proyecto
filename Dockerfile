@@ -8,7 +8,7 @@ FROM httpd:2.4
 LABEL \
 	version="2.0" \
 	description="Apache2 + nano + index.html" \
-	creationDate="23-09-2019" \
+	creationDate="11-01-2023" \
 	maintainer="Nora San Saturnino <nsansaturnino@birt.eus>"
 
 # Ejecutamos diferentes comandos
