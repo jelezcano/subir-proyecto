@@ -9,7 +9,7 @@ LABEL \
 	version="2.0" \
 	description="Apache2 + nano + index.html" \
 	creationDate="11-01-2023" \
-	maintainer="Nora San Saturnino <nsansaturnino@birt.eus>"
+	maintainer="Jone <nsansaturnino@birt.eus>"
 
 # Ejecutamos diferentes comandos
 # Debemos encadenarlos en un mismo RUN mediante la \
